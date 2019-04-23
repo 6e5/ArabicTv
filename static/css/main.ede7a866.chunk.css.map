@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACE,WAAY,CACZ,UACF,CAEA,mBACE,YAAa,CACb,6BACF,CAEA,SACE,cACF","file":"main.ede7a866.chunk.css","sourcesContent":[".hls-player {\r\n  height: 100%;\r\n  width: 100%;\r\n}\r\n\r\n.container-content {\r\n  display: grid;\r\n  grid-template-columns: 1fr 2fr;\r\n}\r\n\r\nli:hover {\r\n  cursor: pointer;\r\n}\r\n"]}
