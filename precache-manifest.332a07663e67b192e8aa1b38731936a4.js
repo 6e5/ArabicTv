@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cddb8e5cb6a78473d668d013256a386",
+    "revision": "0f96b3ed3dac4b47dc7df5284417020d",
     "url": "/ArabicTv/index.html"
   },
   {
