@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ede7a866.chunk.css",
-    "main.js": "/static/js/main.e9248233.chunk.js",
-    "main.js.map": "/static/js/main.e9248233.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.ec080f1f.chunk.js": "/static/js/2.ec080f1f.chunk.js",
-    "static/js/2.ec080f1f.chunk.js.map": "/static/js/2.ec080f1f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6d659ba549e571cef559b1f665afc4bf.js": "/precache-manifest.6d659ba549e571cef559b1f665afc4bf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ede7a866.chunk.css.map": "/static/css/main.ede7a866.chunk.css.map"
+    "main.css": "/ArabicTv/static/css/main.ede7a866.chunk.css",
+    "main.js": "/ArabicTv/static/js/main.c3a32b1a.chunk.js",
+    "main.js.map": "/ArabicTv/static/js/main.c3a32b1a.chunk.js.map",
+    "runtime~main.js": "/ArabicTv/static/js/runtime~main.dcd4a74c.js",
+    "runtime~main.js.map": "/ArabicTv/static/js/runtime~main.dcd4a74c.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/ArabicTv/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.ec080f1f.chunk.js": "/ArabicTv/static/js/2.ec080f1f.chunk.js",
+    "static/js/2.ec080f1f.chunk.js.map": "/ArabicTv/static/js/2.ec080f1f.chunk.js.map",
+    "index.html": "/ArabicTv/index.html",
+    "precache-manifest.64698379780465abad1b3941092f058e.js": "/ArabicTv/precache-manifest.64698379780465abad1b3941092f058e.js",
+    "service-worker.js": "/ArabicTv/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/ArabicTv/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.ede7a866.chunk.css.map": "/ArabicTv/static/css/main.ede7a866.chunk.css.map"
   }
 }
