@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7414b4a4f33c727f775c71e07d4151e9",
+    "revision": "4c0cd8226c9bf4a173a383989d832216",
     "url": "/ArabicTv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArabicTv/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "0ef17c4360e83bc5b57b",
+    "revision": "76efa856a559e7d895c1",
     "url": "/ArabicTv/static/css/main.ede7a866.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArabicTv/static/js/2.a97444eb.chunk.js"
   },
   {
-    "revision": "0ef17c4360e83bc5b57b",
-    "url": "/ArabicTv/static/js/main.73bc224a.chunk.js"
+    "revision": "76efa856a559e7d895c1",
+    "url": "/ArabicTv/static/js/main.267cea15.chunk.js"
   },
   {
     "revision": "0403335bc0f7e96f5453",
